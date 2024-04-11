@@ -5,6 +5,10 @@ The main goal of this repository was to gain first experiences in how to develop
 and avoid messing around with older cupy versions as the official implementation does not run with newer cupy versions.
 The current stage of this kernel is not verified/tested against the original implementation, so use at your own risk!
 
+## TODO
+- [ ] Add CPU kernel
+- [ ] Test against original implementation
+
 ## Example
 Simple example demonstrating a forward warp using flow extracted with RAFT. Images are obtained from UCF101 dataset [[2]](#2).
 <img src=figures/warp_result.png>
