@@ -10,7 +10,7 @@ Simple example demonstrating a forward warp using flow extracted with RAFT. Imag
 <img src=figures/warp_result.png>
 
 ## License
-This provided implementation is for academic purposes only. For commercial use please get in touch with authors of official code (https://github.com/sniklaus/softmax-splatting) or [1].
+This provided implementation is for academic purposes only. For commercial use please get in touch with authors of official code (https://github.com/sniklaus/softmax-splatting) or [[1]](#1).
 
 ## References
 <a id="1">[1]</a> Nikolaus S., Liu F.: Softmax Splatting for Video Frame Interpolation. In IEEE Conference on Computer Vision and Pattern Recognition (2020)
